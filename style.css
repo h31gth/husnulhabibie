@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2eeff;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-family: lemon;
+}
+.nav-link {
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.section {
+  padding-top: 5rem;
+}
+#pendidikan,
+#aktivitas {
+  background-color: #e2eeff;
+}
