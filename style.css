@@ -17,3 +17,33 @@
 #aktivitas {
   background-color: #e2eeff;
 }
+.carousel-item img{
+    opacity: 0.6;
+}
+.nav-icon{
+    background: #1b1b1b;
+    width: 3.8rem;
+    height:  3.8rem;
+    border-radius: 50%;
+    border: 0;
+    opacity: 0.7;
+    text-shadow: none;
+    color: #fff;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-icon:hover{
+    background-color:  #000;
+    opacity: 1.0;
+    transition: all ease 0.3s;
+    color: #fff;
+}
+.carousel-indicators li{
+    border-radius: 50%;
+    width: .8rem;
+    height:  .8rem;
+    background: transparent;
+    border: solid 2px  #1b1b1b;
+}
