@@ -17,7 +17,7 @@
 #cs {
   background-color: #e2eeff;
 }
-.carousel-item img {
+button .carousel-item img {
   opacity: 0.8;
 }
 .carousel-indicators li {
@@ -27,7 +27,11 @@
   background: transparent;
   border: solid 2px #1b1b1b;
 }
-
+.carousel-control-next,
+.carousel-control-prev {
+  width: fit-content;
+  padding-inline: 28%;
+}
 form {
   max-width: 420px;
   margin: 50px auto;
