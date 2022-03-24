@@ -13,8 +13,7 @@
 .section {
   padding-top: 5rem;
 }
-#gallery,
-#cs {
+#gallery{
   background-color: #e2eeff;
 }
 button .carousel-item img {
